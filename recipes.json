@@ -1,0 +1,66 @@
+{
+    "recipes": {
+        "recipe": [
+            {
+                "name": "Pan Seared Salmon",
+                "notes": "Don't know where I found this but here you go.",
+                "ingredients": [
+                    "2 T unsalted butter",
+                    "1lb salmon fillets 1 inch thick no skin",
+                    "salt",
+                    "pepper",
+                    "1/2 cup white wine",
+                    "1/2 cup lemon juice",
+                    "1/2 cup minced shallots",
+                    "1/2 cup heavy cream",
+                    "parlsey"
+                ],
+                "instructions": [
+                    "1. Heat butter in saute pan on medium heat until bubbling.",
+                    "2. Season salmon fillets with salt and pepper,",
+                    "3. Place salmon in pan gently and cook for 6 minutes or until there is a crsipy crust formed. Also season with salt and pepper.",
+                    "4. Turn and let cook another 4 to 6 minutes",
+                    "5. Pour in 1/c cup white wine and wait 30 seconds",
+                    "6. Add lemon juice, shallots and heavy cream. Cook 2 minutes",
+                    "7. Remove salmon and add parsley. Cook on low until sauce thickens to desired consistency 1-4 minutes"
+
+                ],
+                "science": "the science of cooking salmon. Should reach a temperature of 140 degrees"
+            },
+            {
+                "name": "Chocolate Chip Cookies",
+                "notes": "Tries to imitate Mrs. Fields",
+                "ingredients": [
+                    "2 sticks butter",
+                    "1/2 cup white sugar",
+                    "1 1/2 cups brown sugar",
+                    "1 egg",
+                    "1 t vanilla extract",
+                    "2 1/2 cups AP flour",
+                    "baking soda",
+                    "baking powder",
+                    "salt",
+                    "1 lb chocolate chips or chunks"
+
+                ],
+                "instructions": [
+                    "1. mix together melted butter, egg, and white and brown sugar and vanilla extract",
+                    "2. in separate bowl combine flour, baking soda, baking powder, and salt.",
+                    "3. pour dry igredients into wet ingredients and mix together.",
+                    "4. fold in the chocolate chips.",
+                    "5. set oven to 350 degrees",
+                    "6. using a tablespoon place cookie dough mound two inches apart on greased baking sheet.",
+                    "7. bake cookies for 10-12 minutes until golden brown. Will take multiple rounds"
+                ],
+                "science": "science of baking cookies. the ratio of brown to white sugar can determine how soft or crunchy the cookies are."
+
+            }
+
+
+
+
+
+        ]
+    }
+}
+    
